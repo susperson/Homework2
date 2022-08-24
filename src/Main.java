@@ -7,6 +7,7 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
 
+        //Задача 2
         dog = dog + 4;
         cat = cat + 4;
         paper = paper + 4;
@@ -14,12 +15,12 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
 
+        //Задача 3
         dog = dog - 3.5;
         cat = cat - 1.6;
         paper = paper - 7639;
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
-
     }
 }
